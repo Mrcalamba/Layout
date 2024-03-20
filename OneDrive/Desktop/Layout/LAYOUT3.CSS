@@ -1,17 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
 .borderLine {
     border: 1px solid skyblue;
     margin-top: 10px;
 }
+
 .flexContainer {
     display: flex;
     justify-content: space-between;
 }
 
-header, nav, footer, aside, section {
+header, nav, main, footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
 }
 
 header, footer {
@@ -20,6 +25,10 @@ header, footer {
 
 nav {
     height: 50px;
+}
+
+main {
+    flex-grow: 1;
 }
 
 aside, section {

@@ -2,8 +2,12 @@
     border: 1px solid skyblue;
     margin-top: 10px;
 }
+.flexContainer {
+    display: flex;
+    justify-content: space-between;
+}
 
-header, nav, main, footer {
+header, nav, footer, aside, section {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,8 +22,9 @@ nav {
     height: 50px;
 }
 
-main {
-    flex-grow: 1;
+aside, section {
+    flex: 1;
+    margin: 10px;
     height: 100vh;
 }
 
