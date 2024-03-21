@@ -12,6 +12,7 @@ header, nav, footer, aside, section {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    background-color: orange;
 }
 
 header, footer {

@@ -9,6 +9,7 @@
 header, nav, main, aside, section, article, footer {
     flex: 1;
     margin: 5px; 
+    background-color: orange;
 }
 header{
     
