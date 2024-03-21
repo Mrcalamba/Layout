@@ -8,20 +8,22 @@ header, nav, main, footer {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: orange;
 }
 
 header, footer {
     height: 100px;
+    background-color: palevioletred;
 }
 
 nav {
     height: 50px;
+    background-color: rebeccapurple;
 }
 
 main {
     flex-grow: 1;
     height: 100vh;
+    background-color: purple;
 }
 
 footer {
