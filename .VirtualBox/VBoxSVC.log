@@ -1,0 +1,107 @@
+00:00:00.005175 main     VirtualBox COM Server 7.0.12 r159484 win.amd64 (Oct 12 2023 19:53:29) release log
+00:00:00.005178 main     Log opened 2024-01-14T11:25:19.090445700Z
+00:00:00.005179 main     Build Type: release
+00:00:00.005187 main     OS Product: Windows 10
+00:00:00.005188 main     OS Release: 10.0.19045
+00:00:00.005189 main     OS Service Pack: 
+00:00:00.097001 main     DMI Product Name: 82C7
+00:00:00.111736 main     DMI Product Version: Lenovo V15-ADA
+00:00:00.111750 main     Firmware type: UEFI
+00:00:00.112053 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.112076 main     Host RAM: 6020MB (5.8GB) total, 2469MB (2.4GB) available
+00:00:00.112080 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.112080 main     Process ID: 11204
+00:00:00.112081 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.277456          VirtualBox: object creation starts
+00:00:00.277905          Home directory: 'C:\Users\edlen\.VirtualBox'
+00:00:00.278046          Installed Drivers:
+00:00:00.286656            C:\WINDOWS\system32\DRIVERS\VBoxSup.sys (Version: 7.0.12.9484)
+00:00:00.287202            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.0.12.9484)
+00:00:00.287749            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.0.12.9484)
+00:00:00.288336            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.0.12.9484)
+00:00:00.289403          Loading settings file "C:\Users\edlen\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.291409          usbLibGetDevices: Starting USB device enumeration
+00:00:00.307112          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&56c8866&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:00:00.307181          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&56c8866&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+00:00:00.308371          usbLibGetDevices: Found 4 USB devices, 0 captured
+00:00:00.308442          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0xc123)
+00:00:00.308459          USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x5a08)
+00:00:00.308470          USB: Unknown USB device detected (idVendor: 0x258a, idProduct: 0x003a)
+00:00:00.432908          HostDnsMonitor: initializing
+00:00:00.442059          HostDnsMonitor: updating information
+00:00:00.442089          HostDnsMonitor: old information
+00:00:00.442090            no server entries
+00:00:00.442090            no domain set
+00:00:00.442091            no search string entries
+00:00:00.442091          HostDnsMonitor: new information
+00:00:00.442092            server 1: 192.168.1.254
+00:00:00.442092            no domain set
+00:00:00.442093            no search string entries
+00:00:00.477142          VD: VDInit finished with VINF_SUCCESS
+00:00:00.478451          VirtualBox: object created
+00:00:00.576121          Saving settings file "C:\Users\edlen\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.580880          Finished saving settings file "C:\Users\edlen\.VirtualBox\VirtualBox.xml"
+00:00:00.581135          Saving settings file "C:\Users\edlen\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.586789          Finished saving settings file "C:\Users\edlen\.VirtualBox\VirtualBox.xml"
+00:00:00.587010          Saving settings file "C:\Users\edlen\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.593166          Finished saving settings file "C:\Users\edlen\.VirtualBox\VirtualBox.xml"
+00:01:01.372552 createBase Saving settings file "C:\Users\edlen\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:01.410814 createBase Finished saving settings file "C:\Users\edlen\.VirtualBox\VirtualBox.xml"
+00:01:01.423253          Saving settings file "C:\Users\edlen\VirtualBox VMs\Edwin Calamba\Edwin Calamba.vbox" with version "1.19-windows"
+00:01:01.427447          Finished saving settings file "C:\Users\edlen\VirtualBox VMs\Edwin Calamba\Edwin Calamba.vbox"
+00:01:01.427750          Saving settings file "C:\Users\edlen\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:01.434373          Finished saving settings file "C:\Users\edlen\.VirtualBox\VirtualBox.xml"
+00:01:01.439087          Saving settings file "C:\Users\edlen\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:01.444818          Finished saving settings file "C:\Users\edlen\.VirtualBox\VirtualBox.xml"
+00:01:01.446269          Saving settings file "C:\Users\edlen\VirtualBox VMs\Edwin Calamba\Edwin Calamba.vbox" with version "1.19-windows"
+00:01:01.451612          Finished saving settings file "C:\Users\edlen\VirtualBox VMs\Edwin Calamba\Edwin Calamba.vbox"
+00:01:01.464447          UnattendedInstaller::initInstaller: UnattendedInstaller::savePassedData(): 
+00:01:01.473850          Unattended::i_reconfigureFloppy: Machine::addStorageController(Floppy) -> ERROR_SUCCESS 
+00:01:01.481422          Saving settings file "C:\Users\edlen\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:01.489210          Finished saving settings file "C:\Users\edlen\.VirtualBox\VirtualBox.xml"
+00:01:01.492205          Saving settings file "C:\Users\edlen\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:01.496147          Finished saving settings file "C:\Users\edlen\.VirtualBox\VirtualBox.xml"
+00:01:01.496492          Saving settings file "C:\Users\edlen\VirtualBox VMs\Edwin Calamba\Edwin Calamba.vbox" with version "1.19-windows"
+00:01:01.501899          Finished saving settings file "C:\Users\edlen\VirtualBox VMs\Edwin Calamba\Edwin Calamba.vbox"
+00:01:01.515214          Launched VM: 3727469168 pid: 12352 (0x3040) frontend: GUI/Qt name: Edwin Calamba
+00:01:01.531803          Saving settings file "C:\Users\edlen\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:01.537442          Finished saving settings file "C:\Users\edlen\.VirtualBox\VirtualBox.xml"
+00:01:01.859737          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:01:07.224840          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:01:07.818487          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:01:09.468656          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:01:09.991824          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:01:09.992182          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:01:09.994188          Saving settings file "C:\Users\edlen\VirtualBox VMs\Edwin Calamba\Edwin Calamba.vbox" with version "1.19-windows"
+00:01:10.002676          Finished saving settings file "C:\Users\edlen\VirtualBox VMs\Edwin Calamba\Edwin Calamba.vbox"
+00:01:10.012228          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:01:10.985952          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:01:10.986465          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:01:10.986853          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:01:11.034596          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:01:13.637681          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:01:14.032215          Saving settings file "C:\Users\edlen\VirtualBox VMs\Edwin Calamba\Edwin Calamba.vbox" with version "1.19-windows"
+00:01:14.037967          Finished saving settings file "C:\Users\edlen\VirtualBox VMs\Edwin Calamba\Edwin Calamba.vbox"
+00:01:14.048705          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:01:14.139622          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:01:46.265639          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+00:01:49.029843          Saving settings file "C:\Users\edlen\VirtualBox VMs\Edwin Calamba\Edwin Calamba.vbox" with version "1.19-windows"
+00:01:49.035336          Finished saving settings file "C:\Users\edlen\VirtualBox VMs\Edwin Calamba\Edwin Calamba.vbox"
+00:01:49.057108          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable (state is Saving)}, preserve=false aResultDetail=0
+00:01:49.159589          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Saving)}, preserve=false aResultDetail=0
+00:01:52.475899          Saving settings file "C:\Users\edlen\VirtualBox VMs\Edwin Calamba\Edwin Calamba.vbox" with version "1.19-windows"
+00:01:52.482511          Finished saving settings file "C:\Users\edlen\VirtualBox VMs\Edwin Calamba\Edwin Calamba.vbox"
+00:01:52.487195          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:01:52.505001          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Saved)}, preserve=false aResultDetail=0
+00:01:52.506235          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:01:52.897325 SaveState Saving settings file "C:\Users\edlen\VirtualBox VMs\Edwin Calamba\Edwin Calamba.vbox" with version "1.19-windows"
+00:01:52.922398 SaveState Finished saving settings file "C:\Users\edlen\VirtualBox VMs\Edwin Calamba\Edwin Calamba.vbox"
+00:01:52.939414          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable (state is Saved)}, preserve=false aResultDetail=0
+00:01:53.011338          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Saved)}, preserve=false aResultDetail=0
+00:01:54.515328          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Saved)}, preserve=false aResultDetail=0
+00:02:24.375026 main     VirtualBox: object deletion starts
+00:02:24.376149 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\edlen\VirtualBox VMs\Edwin Calamba\Edwin Calamba.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:02:24.381034 main     HostDnsMonitor: shutting down ...
+00:02:24.381484 main     HostDnsMonitor: shut down
+00:02:24.385856 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:02:24.386482 main     VirtualBox: object deleted

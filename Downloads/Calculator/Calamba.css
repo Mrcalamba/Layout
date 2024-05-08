@@ -2,9 +2,13 @@
     padding: 0;
     margin: 5px;
     text-align: center;
+    
   }
   body {
     background-color:whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     
   }
   .calculator {
@@ -13,7 +17,7 @@
     background-image: url(.//image/edwin\ 1.jpg);
     box-shadow: 0px 0px 0px 10px #666;
     border: 5px solid whitesmoke;
-    border-radius: 10px;
+    border-radius: 10px;  
   }
   #display {
     width: 320px;
@@ -25,6 +29,9 @@
     left: 2px;
     top: 2px;
     color: #7fff00;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   .btnTop{
     color: white;
@@ -33,6 +40,9 @@
     margin: auto;
     width: 50px;
     height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   .btnNum {
     color: white;
@@ -41,6 +51,9 @@
     margin: auto;
     width: 50px;
     height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   .btnMath {
     color: white;
@@ -49,6 +62,9 @@
     margin: auto;
     width: 50px;
     height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   .btnOpps {
     color: white;
@@ -57,4 +73,7 @@
     margin: auto;
     width: 50px;
     height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }

@@ -1,0 +1,26 @@
+00:00:00.755041 VirtualBox GUI VM Selector Window 7.0.12 r159484 win.amd64 (Oct 12 2023 19:53:29) release log
+00:00:00.755043 Log opened 2024-01-14T11:25:19.607229600Z
+00:00:00.755044 Build Type: release
+00:00:00.755048 OS Product: Windows 10
+00:00:00.755049 OS Release: 10.0.19045
+00:00:00.755049 OS Service Pack: 
+00:00:00.802879 DMI Product Name: 82C7
+00:00:00.807665 DMI Product Version: Lenovo V15-ADA
+00:00:00.807680 Firmware type: UEFI
+00:00:00.808018 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.808043 Host RAM: 6020MB (5.8GB) total, 2499MB (2.4GB) available
+00:00:00.808048 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.808049 Process ID: 3388
+00:00:00.808049 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.808297 Qt version: 5.15.2
+00:00:00.809159 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.829564 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.829621 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:01.653512 GUI: UIMediumEnumerator: Medium with key={{f1b84fe7-a565-4618-aa23-888d00f8ed89}} created
+00:01:01.804744 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:10.245885 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:14.315932 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:49.309657 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:53.187269 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:18.575372 GUI: UICommon: Handling aboutToQuit request..
+00:02:19.623898 GUI: UICommon: aboutToQuit request handled!
